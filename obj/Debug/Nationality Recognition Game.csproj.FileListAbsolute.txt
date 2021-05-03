@@ -1,0 +1,19 @@
+D:\Nationality-Recognition-Game\bin\Debug\Nationality Recognition Game.exe.config
+D:\Nationality-Recognition-Game\bin\Debug\Nationality Recognition Game.exe
+D:\Nationality-Recognition-Game\bin\Debug\Nationality Recognition Game.pdb
+D:\Nationality-Recognition-Game\obj\Debug\Nationality Recognition Game.csprojAssemblyReference.cache
+D:\Nationality-Recognition-Game\obj\Debug\Nationality_Recognition_Game.Main.resources
+D:\Nationality-Recognition-Game\obj\Debug\Nationality_Recognition_Game.Properties.Resources.resources
+D:\Nationality-Recognition-Game\obj\Debug\Nationality Recognition Game.csproj.GenerateResource.cache
+D:\Nationality-Recognition-Game\obj\Debug\Nationality Recognition Game.exe
+D:\Nationality-Recognition-Game\obj\Debug\Nationality Recognition Game.pdb
+D:\nationality-recognition-game\bin\Debug\img\fail.jpg
+D:\nationality-recognition-game\bin\Debug\img\pass.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\1-Japanese.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\2-Chinese.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\3-Korean.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\4-Thai.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\5-Korean.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\6-Japanese.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\7-Thai.jpg
+D:\nationality-recognition-game\bin\Debug\Picture\8-Chinese.jpg
